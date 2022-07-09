@@ -1,0 +1,3 @@
+name: CWAntiDrop
+version: '${project.version}'
+main: com.cw.cwantidrop.CWAntiDrop
